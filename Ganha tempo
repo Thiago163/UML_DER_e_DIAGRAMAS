@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-24T16:18:40.907Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.52" etag="0Ri_hV1MUV-hY86UUVZO" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-24T16:22:30.202Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.52" etag="QxlK0O4ECNMLRoec_jNi" version="20.6.0" type="github">
   <diagram id="nm7pR_lCGovRTBV2LGWr" name="Ganha tempo">
     <mxGraphModel dx="1038" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -89,6 +89,11 @@
         <mxCell id="PhaxGVt0egwORIhbiFBR-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="PhaxGVt0egwORIhbiFBR-22" target="PhaxGVt0egwORIhbiFBR-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="o01kQgmynM4Xi3LJzt8d-2" value="Include" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PhaxGVt0egwORIhbiFBR-21">
+          <mxGeometry x="0.0978" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="PhaxGVt0egwORIhbiFBR-22" value="Cliente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="710" width="30" height="60" as="geometry" />
         </mxCell>
@@ -125,10 +130,20 @@
             <mxPoint x="540" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="o01kQgmynM4Xi3LJzt8d-3" value="Include" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PhaxGVt0egwORIhbiFBR-32">
+          <mxGeometry x="0.208" y="1" relative="1" as="geometry">
+            <mxPoint x="-20" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="PhaxGVt0egwORIhbiFBR-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="PhaxGVt0egwORIhbiFBR-27" target="PhaxGVt0egwORIhbiFBR-28" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="490" y="270" as="sourcePoint" />
             <mxPoint x="540" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o01kQgmynM4Xi3LJzt8d-4" value="Include" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PhaxGVt0egwORIhbiFBR-33">
+          <mxGeometry x="0.2522" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PhaxGVt0egwORIhbiFBR-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="PhaxGVt0egwORIhbiFBR-27" target="PhaxGVt0egwORIhbiFBR-29" edge="1">
@@ -149,8 +164,21 @@
             <mxPoint x="440" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="o01kQgmynM4Xi3LJzt8d-5" value="Extend" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PhaxGVt0egwORIhbiFBR-36">
+          <mxGeometry x="-0.376" y="2" relative="1" as="geometry">
+            <mxPoint x="17" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="s_s2k7kUtY3od3Iy3lew-1" value="&lt;span style=&quot;color: rgb(139, 148, 158); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 30px; text-align: left;&quot;&gt;Nomes: Lucas, Luiz, Maiara e Thiago 2 modulo&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;fontSize=30;labelBorderColor=none;" parent="1" vertex="1">
           <mxGeometry x="70" y="10" width="680" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="o01kQgmynM4Xi3LJzt8d-6" value="Extend" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="470.20329844156504" y="380.3895645767061" as="geometry" />
+        </mxCell>
+        <mxCell id="o01kQgmynM4Xi3LJzt8d-7" value="Include" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="470.2" y="240" as="geometry">
+            <mxPoint x="-8" y="48" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

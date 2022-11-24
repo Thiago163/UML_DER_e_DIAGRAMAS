@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-24T15:19:08.777Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.52" etag="NkTE-xlf4YaZfblrZ_XZ" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-24T15:20:31.402Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.52" etag="xXi5rwaJI-ZBQKYWQjWO" version="20.6.0" type="github">
   <diagram id="nm7pR_lCGovRTBV2LGWr" name="Ganha tempo">
     <mxGraphModel dx="1038" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -152,7 +152,7 @@
             <mxPoint x="440" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s_s2k7kUtY3od3Iy3lew-1" value="&lt;span style=&quot;color: rgb(139, 148, 158); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 30px; text-align: left;&quot;&gt;Nomes: Lucas, Luiz, Maiara e Thiago 2 modulo&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;fontSize=30;" vertex="1" parent="1">
+        <mxCell id="s_s2k7kUtY3od3Iy3lew-1" value="&lt;span style=&quot;color: rgb(139, 148, 158); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 30px; text-align: left;&quot;&gt;Nomes: Lucas, Luiz, Maiara e Thiago 2 modulo&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;fontSize=30;labelBorderColor=none;" vertex="1" parent="1">
           <mxGeometry x="70" y="30" width="680" height="80" as="geometry" />
         </mxCell>
       </root>

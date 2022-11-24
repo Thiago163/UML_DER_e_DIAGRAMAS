@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-11-24T14:32:16.624Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.52" etag="WHCzre9a8Q_-AHhRCwr3" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-24T14:33:26.538Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.52" etag="bECnfmbqp7SioIJYZE7s" version="20.6.0" type="github">
   <diagram id="nm7pR_lCGovRTBV2LGWr" name="Página-1">
-    <mxGraphModel dx="1865" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="PhaxGVt0egwORIhbiFBR-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="-80" y="720" width="310" height="310" as="geometry" />
+          <mxGeometry x="20" y="820" width="260" height="260" as="geometry" />
         </mxCell>
         <mxCell id="PhaxGVt0egwORIhbiFBR-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="650" width="470" height="370" as="geometry" />
@@ -17,7 +17,7 @@
           <mxGeometry x="505" y="710" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PhaxGVt0egwORIhbiFBR-5" value="Gerar senha" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="15" y="940" width="120" height="80" as="geometry" />
+          <mxGeometry x="90" y="1010" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PhaxGVt0egwORIhbiFBR-6" value="Registrar o atendimento" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="660" y="820" width="120" height="80" as="geometry" />
@@ -81,7 +81,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PhaxGVt0egwORIhbiFBR-19" value="Calcular senha" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="15" y="830" width="120" height="80" as="geometry" />
+          <mxGeometry x="90" y="930" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PhaxGVt0egwORIhbiFBR-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="PhaxGVt0egwORIhbiFBR-19" target="PhaxGVt0egwORIhbiFBR-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -93,13 +93,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PhaxGVt0egwORIhbiFBR-22" value="Cliente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="-50" y="630" width="30" height="60" as="geometry" />
+          <mxGeometry x="40" y="710" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PhaxGVt0egwORIhbiFBR-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="PhaxGVt0egwORIhbiFBR-24" target="PhaxGVt0egwORIhbiFBR-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PhaxGVt0egwORIhbiFBR-24" value="Precionar botão" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="15" y="730" width="120" height="80" as="geometry" />
+          <mxGeometry x="85" y="850" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PhaxGVt0egwORIhbiFBR-25" value="Administrador&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="130" y="247.5" width="60" height="130" as="geometry" />

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-24T16:22:59.123Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.52" etag="W6TtkjvKcIL4AmVbBQWS" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-25T02:35:02.314Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56" etag="Sp3MH7brvl-IeqsQPdFP" version="20.6.0" type="github">
   <diagram id="nm7pR_lCGovRTBV2LGWr" name="Ganha tempo">
     <mxGraphModel dx="1038" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="PhaxGVt0egwORIhbiFBR-3" value="Guichê" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="290" y="690" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o01kQgmynM4Xi3LJzt8d-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PhaxGVt0egwORIhbiFBR-4" target="PhaxGVt0egwORIhbiFBR-9">
+        <mxCell id="o01kQgmynM4Xi3LJzt8d-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="PhaxGVt0egwORIhbiFBR-4" target="PhaxGVt0egwORIhbiFBR-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PhaxGVt0egwORIhbiFBR-4" value="Abrir o atendimento" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -89,7 +89,7 @@
         <mxCell id="PhaxGVt0egwORIhbiFBR-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="PhaxGVt0egwORIhbiFBR-22" target="PhaxGVt0egwORIhbiFBR-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o01kQgmynM4Xi3LJzt8d-2" value="Include" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PhaxGVt0egwORIhbiFBR-21">
+        <mxCell id="o01kQgmynM4Xi3LJzt8d-2" value="Include" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="PhaxGVt0egwORIhbiFBR-21" vertex="1" connectable="0">
           <mxGeometry x="0.0978" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -100,7 +100,7 @@
         <mxCell id="PhaxGVt0egwORIhbiFBR-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="PhaxGVt0egwORIhbiFBR-24" target="PhaxGVt0egwORIhbiFBR-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PhaxGVt0egwORIhbiFBR-24" value="Precionar botão" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="PhaxGVt0egwORIhbiFBR-24" value="Pressionar botão" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="85" y="850" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PhaxGVt0egwORIhbiFBR-25" value="Administrador&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
@@ -130,7 +130,7 @@
             <mxPoint x="540" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="o01kQgmynM4Xi3LJzt8d-3" value="Include" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PhaxGVt0egwORIhbiFBR-32">
+        <mxCell id="o01kQgmynM4Xi3LJzt8d-3" value="Include" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="PhaxGVt0egwORIhbiFBR-32" vertex="1" connectable="0">
           <mxGeometry x="0.208" y="1" relative="1" as="geometry">
             <mxPoint x="-20" y="1" as="offset" />
           </mxGeometry>
@@ -141,7 +141,7 @@
             <mxPoint x="540" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="o01kQgmynM4Xi3LJzt8d-4" value="Include" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PhaxGVt0egwORIhbiFBR-33">
+        <mxCell id="o01kQgmynM4Xi3LJzt8d-4" value="Include" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="PhaxGVt0egwORIhbiFBR-33" vertex="1" connectable="0">
           <mxGeometry x="0.2522" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -164,7 +164,7 @@
             <mxPoint x="440" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="o01kQgmynM4Xi3LJzt8d-5" value="Extend" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PhaxGVt0egwORIhbiFBR-36">
+        <mxCell id="o01kQgmynM4Xi3LJzt8d-5" value="Extend" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="PhaxGVt0egwORIhbiFBR-36" vertex="1" connectable="0">
           <mxGeometry x="-0.376" y="2" relative="1" as="geometry">
             <mxPoint x="17" y="-11" as="offset" />
           </mxGeometry>
@@ -172,10 +172,10 @@
         <mxCell id="s_s2k7kUtY3od3Iy3lew-1" value="&lt;span style=&quot;color: rgb(139, 148, 158); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 30px; text-align: left;&quot;&gt;Nomes: Lucas, Luiz, Maiara e Thiago 2 modulo&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;fontSize=30;labelBorderColor=none;" parent="1" vertex="1">
           <mxGeometry x="70" y="10" width="680" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="o01kQgmynM4Xi3LJzt8d-6" value="Extend" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+        <mxCell id="o01kQgmynM4Xi3LJzt8d-6" value="Extend" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
           <mxGeometry x="470.20329844156504" y="380.3895645767061" as="geometry" />
         </mxCell>
-        <mxCell id="o01kQgmynM4Xi3LJzt8d-7" value="Include" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+        <mxCell id="o01kQgmynM4Xi3LJzt8d-7" value="Include" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
           <mxGeometry x="470.2" y="240" as="geometry">
             <mxPoint x="-8" y="48" as="offset" />
           </mxGeometry>
